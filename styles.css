@@ -1,0 +1,29 @@
+html {
+    font-size: 20px; 
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Rubik', sans-serif; 
+  }
+h1 {
+    box-sizing: border-box;
+    background-color:lightgray;
+    margin-right: 10%;
+    margin-left: 10%;
+    border: 5px;
+    padding: 3px;
+    border-style: groove;
+
+  }
+  #missecciones {
+    text-align: center;
+  }
+  main {
+    margin: 1px 5px 2px 2px;
+    border: 2px solid black;
+    padding: 5px;
+    background-color: aquamarine;
+    border-color: darkcyan;
+    border-style: groove;
+    }
+
+  
+  
